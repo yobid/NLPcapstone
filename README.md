@@ -3,6 +3,7 @@ Natural Language Processing capstone project, data is provided by Swiftkey. For 
 
 ## The app
 The prediction Shiny app can be found [here](https://yoanbid.shinyapps.io/word_prediction_app/).
+The code of the app can be found on the ui.R and server.R files. 
 
 ## The descriptive
 A descriptive of the app is [here](http://rpubs.com/yobid/pred-app).
